@@ -1,0 +1,15 @@
+C:\Users\Bas\source\repos\Memorygame\Memorygame\bin\Debug\Memorygame.exe.config
+C:\Users\Bas\source\repos\Memorygame\Memorygame\bin\Debug\Memorygame.exe
+C:\Users\Bas\source\repos\Memorygame\Memorygame\bin\Debug\Memorygame.pdb
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\Memorygame.csprojAssemblyReference.cache
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\MainWindow.g.cs
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\App.g.cs
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\Memorygame_MarkupCompile.cache
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\Memorygame_MarkupCompile.lref
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\MainWindow.baml
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\Memorygame.g.resources
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\Memorygame.Properties.Resources.resources
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\Memorygame.csproj.GenerateResource.cache
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\Memorygame.csproj.CoreCompileInputs.cache
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\Memorygame.exe
+C:\Users\Bas\source\repos\Memorygame\Memorygame\obj\Debug\Memorygame.pdb
